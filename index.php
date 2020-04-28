@@ -13,7 +13,7 @@ if ($service_name != '') {
 function money()
 {
     //$result = false;
-    $result = '165.000,23';
+    $result = '17.856.564,00';
     echo json_encode($result);
 }
 
