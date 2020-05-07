@@ -13,10 +13,10 @@ if ($service_name != '') {
 function money()
 {
     //$result = false;
-    $result[0] = '287.458.769,00';
-    $result[1] = '45.007.586,00';
+    $result[0] = '310.240.769,00';
+    $result[1] = '5.007.586,00';
     $result[2] = '12.492.345,00';
-    $result[3] = '430.374.670,00';
+    $result[3] = '394.150.240,00';
     echo json_encode($result);
 }
 
