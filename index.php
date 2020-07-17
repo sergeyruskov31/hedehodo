@@ -22,6 +22,6 @@ function money()
 
 function crash()
 {
-    $result = false;
+    $result = true;
     echo json_encode($result);
 }
